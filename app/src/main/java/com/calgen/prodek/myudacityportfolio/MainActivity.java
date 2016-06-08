@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     toastText = "Hey material design really looks cool!";
                     break;
                 case R.id.go_ubiquitous:
-                    toastText = "APP EVERYWHERE!";
+                    toastText = "APPS EVERYWHERE!";
                     break;
                 case R.id.capstone:
                     toastText = "My final project!";
